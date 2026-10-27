@@ -1,0 +1,5 @@
+intent_path,user_item_pairs,bought_pairs,buy_rate
+0_View only,67277652,949262.0,0.0141
+1_Fav only,1103158,88000.0,0.0798
+2_Cart only,2551331,255458.0,0.1001
+3_Cart+Fav,84149,13465.0,0.16

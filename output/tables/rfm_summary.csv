@@ -1,0 +1,5 @@
+segment,users,user_share,buys,buy_share,avg_recency,avg_frequency
+Champions,208314,0.3098,1126634.0,0.5589,1.68,5.41
+At-risk loyal,78304,0.1165,346147.0,0.1717,5.31,4.42
+Hibernating,208173,0.3096,278060.0,0.1379,6.23,1.34
+Promising,177613,0.2641,264966.0,0.1314,1.86,1.49
